@@ -73,6 +73,7 @@ holiday_hash.each do |season, holidays|
     if supplies.include?("BBQ")
       attribute
     end
-  
+  end
+end
   end
 end
